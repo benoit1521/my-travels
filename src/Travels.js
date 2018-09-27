@@ -14,6 +14,24 @@ const travel = [
         country:"Italy",
         distance:"851km",
         image:"https://static.giantbomb.com/uploads/original/0/2413/425522-4.jpg"
+    },
+    {
+        destination:"Lisboa",
+        country:"Portugal",
+        distance:"1735km",
+        image:"https://media.routard.com/image/62/8/lisbonne-2.1475628.w740.jpg"
+    },
+    {
+        destination:"Barcelona",
+        country:"Spain",
+        distance:"1037km",
+        image:"https://ssl.viaimage.viafrance.com/img/img-800x450/2/9/6/296970_800x450.jpg"
+    },
+    {
+        destination:"Fuerteventura",
+        country:"Islas canarias - Spain",
+        distance:"2676km",
+        image:"https://www.salutilescanaries.com/sites/default/files/fuerteventura.jpg"
     }
 ];
 
